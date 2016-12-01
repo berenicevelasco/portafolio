@@ -89,7 +89,6 @@ justify-content: center;
 	
 .container{
 display: flex;
-min-width: 600px;
 max-width: 1200px;
 min-height: 600px;
 flex-wrap: wrap;
